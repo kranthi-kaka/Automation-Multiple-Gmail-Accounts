@@ -1,8 +1,11 @@
-#Author: Kranthi Kumar D
-@kranthi-kaka
+#----------------------------------------------
+#--- Author         : Kranthi Kumar D
+#--- GitHub         : kranthi-kaka
+#----------------------------------------------
 
 # Multiple Gmail accounts sign-in
 
+#imports
 import time
 from selenium import webdriver
 
